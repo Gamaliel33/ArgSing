@@ -31,7 +31,6 @@ ArgSign es un proyecto básico en Python que busca convertir gestos de Lengua de
   * opencv-python
   * mediapipe
   * tensorflow
-  * pandas
   * scikit-learn
   * tkinter
 
